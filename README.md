@@ -5,6 +5,6 @@
 - Kumanovë, Maqedoni
 - Student
 
-# _Gjërat që më pëlqejnë
+# _Gjërat që më pëlqejnë_
 
 - Leximi
