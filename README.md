@@ -1,7 +1,7 @@
 # Fitim Emini
 # _Bio e shkurtër_
 
-- 23 vjeçar
+- 24 vjeçar
 - Kumanovë, Maqedoni
 - Student
 
